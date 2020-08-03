@@ -7,7 +7,8 @@
  |  [GitHub](https://github.com/marcmir70)
 
 > I’m an IT professional experienced on Project Management, Quality Assurance, Telecom and Financial areas; with 15 years on Quality Assurance & Testing, and 8 years on Development and Support.
-•	Worked for Telecommunications, Oil & Gas, Aviation, and Finance companies in on-shore and off-shore projects; mostly involved with team Leadership (also in Agile), Mentoring/Training and Test Automation.
+
+>	Worked for Telecommunications, Oil & Gas, Aviation, and Finance companies in on-shore and off-shore projects; mostly involved with team Leadership (also in Agile), Mentoring/Training and Test Automation.
 
 > In order to become a Systems Developer, I have been updating my programming skills on languages as Python and Java to deepen my knowledge and make me more prepared for Test/Process Automation and also for DevOps culture mastering their related technologies and, in addition, learn all ecosystems that involve these technologies.
 
@@ -19,7 +20,7 @@
 
 - INTERMEDIATE:  Agile Practices / Project Management  »  TDD, BDD | OSS/BSS (Telecom) | Design Thinking | XP (eXtreme Programming), OO/OOP, PP | Business Process Modeling / Mapping  »  C, Python, PL/SQL, Scratch  »  Oracle, MySQL, SQL Server, IBM DB2  » Atlassian JIRA, Selenium, AutoIt, IBM Manual Tester, IBM Performance Tester, IBM Clear Quest, IBM Clear Case | MS Visual Source Safe, MicroFocus StarTeam, Perforce  »  SAP R/3 MM, SD, AM PP and HR modules | Amdocs Enabler, Kenan Arbor | Siebel eTelecommunications (Telecom) | RedKnee OPSC and OVPN
 
-- ADVANCED:  Test Management, Test Planning, Test Strategies, Defects Management, Risk Management  »  Test Processes, Test Metrics, SDLC, STLC, CMM/CMMi, TMM  »  Visual Basic / VBA, Unix Shell Scripting  »  Grupo HDI Starc / MicroFocus UFT/ QTP/ WinRunner | MicroFocus Octane/ ALM/ Quality Center/ Silk Central, Testlink, Mantis, Bugzilla  »  Windows, Unix | MS Office, MS Project, MS Visio, Sun Star Office, OpenDoc, BrOffice | MS OneDrive, Google Apps
+- ADVANCED:  Test Management, Test Planning, Test Strategies, Defects Management, Risk Management  »  Test Processes, Test Metrics, SDLC, STLC, CMM/CMMi, TMM  »  Visual Basic / VBA, Unix Shell Scripting, Matlab  »  Grupo HDI Starc / MicroFocus UFT/ QTP/ WinRunner | MicroFocus Octane/ ALM/ Quality Center/ Silk Central, Testlink, Mantis, Bugzilla  »  Windows, Unix | MS Office, MS Project, MS Visio, Sun Star Office, OpenDoc, BrOffice | MS OneDrive, Google Apps
 
 ----
 
