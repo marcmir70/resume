@@ -1,3 +1,4 @@
+Brief Professional Resume
 # MARCELO MIRANDA
 *Senior Quality Assurance Professional - Rio de Janeiro / São Paulo, Brazil*
 
@@ -6,21 +7,27 @@
  |  [LinkedIn](http://br.linkedin.com/in/marcelomiranda)
  |  [GitHub](https://github.com/marcmir70)
 
-> I’m an IT professional experienced on Project Management, Quality Assurance, Telecom and Financial areas; with 15 years on Quality Assurance & Testing, and 8 years on Development and Support.
+> IT professional experienced on Agile and Project Mgmt, Quality Assurance, Telecom and Financial areas; with 15 years on Quality Assurance & Testing, and 8 years on Development and Support.
 
 >	Worked for Telecommunications, Oil & Gas, Aviation, and Finance companies in on-shore and off-shore projects; mostly involved with team Leadership (also in Agile), Mentoring/Training and Test Automation.
 
-> In order to become a Systems Developer, I have been updating my programming skills on languages as Python and Java to deepen my knowledge and make me more prepared for Test/Process Automation and also for DevOps culture mastering their related technologies and, in addition, learn all ecosystems that involve these technologies.
+> In order to become a Systems Developer, I have been updating my programming skills on Python and Java to deepen my knowledge and make myself more prepared for Test/Process Automation and also for DevOps culture mastering their related technologies and, in addition, learn all ecosystems that involve these technologies.
 
 ----
 
 ## SKILLS AND KNOWLEDGE
-( management » processes » languages » testing » databases » tools » systems/platforms )
-- BASIC:  ITIL / Cobit  »  ISO9000, SOA, RUP  »  Java, JavaScript, HTML5/CSS3, C++, Google Apps Scripting, XML, PHP, Perl, Ruby, WebServices  »  MongoDB, CouchDB, OrgaSystems InCore  »  PyCharm, IDLE, Eclipse | Git/GitHub, Maven, SVN | MS Visual Studio Team Foundation, Katalon Studio, SmartBear TestComplete, SoapUI, Postman, Database Benerator, Appium, Mocha, NightWatch  »  MicroFocus CaliberRM, Hudson (old Jenkins) | VPN, firewalls and protocols (Ethernet, TCP/IP, DHCP, NetBios, SSL) | PeopleSoft
 
-- INTERMEDIATE:  Agile Practices / Project Management  »  TDD, BDD | OSS/BSS (Telecom) | Design Thinking | XP (eXtreme Programming), OO/OOP, PP | Business Process Modeling / Mapping  »  C, Python, PL/SQL, Scratch  »  Oracle, MySQL, SQL Server, IBM DB2  » Atlassian JIRA, Selenium, AutoIt, IBM Manual Tester, IBM Performance Tester, IBM Clear Quest, IBM Clear Case | MS Visual Source Safe, MicroFocus StarTeam, Perforce  »  SAP R/3 MM, SD, AM PP and HR modules | Amdocs Enabler, Kenan Arbor | Siebel eTelecommunications (Telecom) | RedKnee OPSC and OVPN
-
-- ADVANCED:  Test Management, Test Planning, Test Strategies, Defects Management, Risk Management  »  Test Processes, Test Metrics, SDLC, STLC, CMM/CMMi, TMM  »  Visual Basic / VBA, Unix Shell Scripting, Matlab  »  Grupo HDI Starc / MicroFocus UFT/ QTP/ WinRunner | MicroFocus Octane/ ALM/ Quality Center/ Silk Central, Testlink, Mantis, Bugzilla  »  Windows, Unix | MS Office, MS Project, MS Visio, Sun Star Office, OpenDoc, BrOffice | MS OneDrive, Google Apps
+|                     | **ADVANCED** | **INTERMEDIATE** | **BASIC** |
+|       :----:        |--------------|------------------|-----------|
+| Management          | Agile Practices, Test Mgmt, Test Planning, Test Strategies, Defects Mgmt, Risk Mgmt | Project Mgmt | ITIL, Cobit |  
+| Processes           | Test Processes, Test Metrics, SDLC/STLC, CMM/CMMi, TMM | Business Process Modeling & Mapping | ISO9000, SOA, RUP | 
+| Development         | Visual Basic/VBA, Unix Shell Script, Matlab | C, Python, PL/SQL, Scratch; OO/OOP, PP; Git; Design Thinking, TDD/BDD/ATDD; XP (eXtreme Programming) | Java, JavaScript, MarkDown, HTML5/CSS3, C++, Google Apps Script, XML, PHP, Perl, Ruby, WebServices | 
+| Test                | MicroFocus UFT/QTP/WinRunner; MicroFocus: Octane, ALM, Quality Center, Silk Central; opensource: Testlink, Mantis, Bugzilla | opensource: Selenium, AutoIt; MicroFocus LoadRunner; Grupo HDI Starc; IBM: Manual Tester, Performance Tester, Clear Quest, Clear Case | MS Visual Studio Team Foundation, Android Studio, Appium, Katalon Studio, SmartBear TestComplete, Postman, Database Benerator, SoapUI, Mocha, NightWatch | 
+| Tools               | JetBrains PyCharm, MS Visual Studio Code | Atlassian JIRA, IDLE, Eclipse, Git, MS Visual Source Safe, MicroFocus StarTeam, Perforce | Maven, SVN, MicroFocus CaliberRM, Hudson/Jenkins |
+| Databases           |  Oracle, MySQL | SQL Server, IBM DB2 | MongoDB, CouchDB, RedKnee InCore |  
+| Infra / Networks    |  | Cloud: AWS | VPN, firewalls and protocols (Ethernet, TCP/IP, DHCP, NetBios, SSL) | 
+| Office              | Microsoft Office, Project, Visio and OneDrive; Google Apps | Sun Star Office, OpenDoc, BrOffice |  |
+| Systems / Platforms | Unix (IBM-AIX, Solaris, HP-UX), Linux (Ubuntu, Mint, RaspBian, FreeBSD, Suse), Microsoft Windows | GitHub, OSS/BSS (Telecom); SAP R/3: MM, SD, AM, PP, HR modules; Amdocs Enabler, Kenan Arbor; Siebel eTelecommunications; RedKnee OPSC and OVPN | GitLab, PeopleSoft |
 
 ----
 
